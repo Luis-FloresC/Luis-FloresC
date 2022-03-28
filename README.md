@@ -53,7 +53,7 @@
 
 ### GitHub Stats
 
-<img align="left" alt="trofeos:-" src="https://github-profile-trophy.vercel.app/?username=Luis-FloresC&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+<img align="left" alt="GitHub Stats:-" src="https://github-readme-stats.vercel.app/api?username=Luis-FloresC&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
 <br />
 <br />
@@ -61,7 +61,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-FloresC&layout=compact&theme=dracula&hide_border=true)
 
 
-### Redes sociales
+
 [twitter]: https://twitter.com/LuisFlo33646424
 [facebook]: https://www.facebook.com/profile.php?id=100022355653916
 [instagram]: https://www.instagram.com/black_drac07/?hl=es-la
